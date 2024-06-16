@@ -1,6 +1,9 @@
 #Pavneet-sing
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Pavneet</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm</h1>
+
+![Pavneet Singh](./assets/name.gif)
+
 <h3 align="center">Passionate Senior Software Engineer | SME | Author | Open Source Contributor</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavneet-Sing&label=Profile%20views&color=0e75b6&style=flat" alt="Pavneet-Sing" /> </p>
 
